@@ -1,2 +1,3 @@
-# C_project
-## 미로게임!
+## C - PROJECT !
+* MAZE GAME!
+* 미로게임!
